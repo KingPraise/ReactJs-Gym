@@ -1,7 +1,7 @@
 # Getting Started with Create React App
 
 
-## Link to the project is [http://reactjsdemo.pages.dev](reactjsdemo.pages.dev)
+## Link to the project reactjsdemo.pages.dev
 
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
